@@ -19,7 +19,6 @@ Here's a list of the technologies and tools I work with:
 ## 🌐 Connect with Me
 
 - LinkedIn: (https://www.linkedin.com/in/isabellareed)
-- Portfolio: [Your Website or Portfolio](https://yourportfolio.com)
 - Email: (mailto:isabellareed2@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or chat about tech! 😄
